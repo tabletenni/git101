@@ -1,1 +1,2 @@
-hello git
+hello gg git
+แก้ไขข้อความ
